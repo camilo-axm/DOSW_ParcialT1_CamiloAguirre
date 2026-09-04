@@ -17,11 +17,13 @@ Solución Parte Diseño de Software y Patrones
 
 la estrategia de selección de preferencia
 Strategy
-• Tipo de patrón: Comportamiento 
-• En este caso el patrón ideal o que podría funcionar seria el strategy,ya que al tener una lógica al reservar o asignar tutores de algoritmos parecidos nos ayudaria a crear clases separadas para poder hacer sus objetos intercambiables 
+
+Tipo de patrón: Comportamiento 
+En este caso el patrón ideal o que podría funcionar seria el strategy,ya que al tener una lógica al reservar o asignar tutores de algoritmos parecidos nos ayudaria a crear clases separadas para poder hacer sus objetos intercambiables 
 
 Interoperabilidad con los sistemas externos
 Adapter
-• Tipo de patrón: Estructural.
-• Para el manejo de sistemas externos que en este caso sería Enlace y NotifyMe, este patrón sería el ideal ya que permite adaptar sistemas externos al principal que se esta usando, ya que ayuda a la colaboración entre objetos con interfaces incompatibles.
+
+Tipo de patrón: Estructural.
+Para el manejo de sistemas externos que en este caso sería Enlace y NotifyMe, este patrón sería el ideal ya que permite adaptar sistemas externos al principal que se esta usando, ya que ayuda a la colaboración entre objetos con interfaces incompatibles.
 
