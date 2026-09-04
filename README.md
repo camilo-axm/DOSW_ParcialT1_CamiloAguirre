@@ -22,6 +22,7 @@ Tipo de patrón: Comportamiento
 En este caso el patrón ideal o que podría funcionar seria el strategy,ya que al tener una lógica al reservar o asignar tutores de algoritmos parecidos nos ayudaria a crear clases separadas para poder hacer sus objetos intercambiables 
 Diagrama de clases:
 
+<img width="766" height="454" alt="image" src="https://github.com/user-attachments/assets/21defbef-448b-4fde-b39e-b1dda054b36a" />
 
 
 
