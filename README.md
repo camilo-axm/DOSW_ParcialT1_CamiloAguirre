@@ -2,4 +2,5 @@
 
 Desarrollo Parcial
 1. 
-<img width="1066" height="463" alt="image" src="https://github.com/user-attachments/assets/3ceeb4e8-74cd-4da6-bad1-a652f720be46" />
+<img width="1070" height="543" alt="image" src="https://github.com/user-attachments/assets/5c48b897-7147-4f34-be0e-3b87905da351" />
+
