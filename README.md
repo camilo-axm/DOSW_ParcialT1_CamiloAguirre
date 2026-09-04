@@ -20,10 +20,17 @@ Strategy
 
 Tipo de patrón: Comportamiento 
 En este caso el patrón ideal o que podría funcionar seria el strategy,ya que al tener una lógica al reservar o asignar tutores de algoritmos parecidos nos ayudaria a crear clases separadas para poder hacer sus objetos intercambiables 
+Diagrama de clases:
+
+
+
 
 Interoperabilidad con los sistemas externos
 Adapter
 
 Tipo de patrón: Estructural.
 Para el manejo de sistemas externos que en este caso sería Enlace y NotifyMe, este patrón sería el ideal ya que permite adaptar sistemas externos al principal que se esta usando, ya que ayuda a la colaboración entre objetos con interfaces incompatibles.
+Diagrama de clases:
+<img width="1213" height="677" alt="image" src="https://github.com/user-attachments/assets/69d120cf-735c-49ca-a910-718342827354" />
+
 
