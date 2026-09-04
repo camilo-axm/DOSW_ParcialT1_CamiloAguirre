@@ -1,11 +1,3 @@
-
-# DOSW_ParcialT1_CamiloAguirre
-
-Desarrollo Parcial
-1. 
-<img width="1070" height="543" alt="image" src="https://github.com/user-attachments/assets/5c48b897-7147-4f34-be0e-3b87905da351" />
-
-Punto 2 
 # 📄 Requerimientos del Sistema
 
 ## 1. Lista general de requerimientos
@@ -56,7 +48,7 @@ perfiles de tutores.
 | Campo | Descripción |
 |------|-------------|
 | **ID** | RF-02 |
-| **Nombre del requerimiento** | Reservar sesion |
+| **Nombre del requerimiento** | Reservar sesión |
 | **Descripción** |  Para los profesores tutores el sistema debe permitir reservar una sesion de máximo 30 minutos |
 | **Precondiciones** | El profesor debe estar autenticado dentro de la universidad. Validar que la materia a la que va a dar la tutoría este dentro de las asignadas. |
 | **Actor** | Profesor |
@@ -65,41 +57,5 @@ perfiles de tutores.
  |
 | **Poscondiciones** | La reservación de la sesión queda asignada y pasa de estar disponible a reservada durante 30 minutos. |
 
-
-
-
-Solución Parte Planeación ágil 
-Creación Epica
-<img width="1573" height="811" alt="image" src="https://github.com/user-attachments/assets/4dd0936d-87d1-483c-be4c-a072e2a778fe" />
-Creación Tareas
-1.
-<img width="1574" height="804" alt="image" src="https://github.com/user-attachments/assets/6ace49b7-4ea4-4b55-92fe-b1e6cfd5639b" />
-2.
-<img width="1564" height="819" alt="image" src="https://github.com/user-attachments/assets/520b9d9a-5683-44af-b703-71b5700b1a43" />
-3.
-<img width="1565" height="784" alt="image" src="https://github.com/user-attachments/assets/35aac007-ab61-48a4-8a1f-894dc3dc086e" />
-
-<img width="1566" height="836" alt="image" src="https://github.com/user-attachments/assets/9fbdca19-429e-4f1d-b1f5-6e91dae871c2" />
-
-Solución Parte Diseño de Software y Patrones
-
-la estrategia de selección de preferencia
-Strategy
-
-Tipo de patrón: Comportamiento 
-En este caso el patrón ideal o que podría funcionar seria el strategy,ya que al tener una lógica al reservar o asignar tutores de algoritmos parecidos nos ayudaria a crear clases separadas para poder hacer sus objetos intercambiables 
-Diagrama de clases:
-
-<img width="766" height="454" alt="image" src="https://github.com/user-attachments/assets/21defbef-448b-4fde-b39e-b1dda054b36a" />
-
-
-
-Interoperabilidad con los sistemas externos
-Adapter
-
-Tipo de patrón: Estructural.
-Para el manejo de sistemas externos que en este caso sería Enlace y NotifyMe, este patrón sería el ideal ya que permite adaptar sistemas externos al principal que se esta usando, ya que ayuda a la colaboración entre objetos con interfaces incompatibles.
-Diagrama de clases:
-<img width="1213" height="677" alt="image" src="https://github.com/user-attachments/assets/69d120cf-735c-49ca-a910-718342827354" />
 
 
