@@ -1,5 +1,9 @@
 
+# DOSW_ParcialT1_CamiloAguirre
 
+Desarrollo Parcial
+1. 
+<img width="1070" height="543" alt="image" src="https://github.com/user-attachments/assets/5c48b897-7147-4f34-be0e-3b87905da351" />
 
 Punto 2 
 # 📄 Requerimientos del Sistema
@@ -60,5 +64,6 @@ perfiles de tutores.
 | **Diagrama de caso de uso** | <img width="729" height="180" alt="image" src="https://github.com/user-attachments/assets/faca24f2-8b65-42a5-bb99-15bdc4fb33a6" />
  |
 | **Poscondiciones** | La reservación de la sesión queda asignada y pasa de estar disponible a reservada durante 30 minutos. |
+
 
 
