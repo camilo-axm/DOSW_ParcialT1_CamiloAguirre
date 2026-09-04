@@ -1,4 +1,4 @@
-# DOSW_ParcialT1_CamiloAguirre
+
 
 Solución Parte Planeación ágil 
 Creación Epica
